@@ -1,0 +1,18 @@
+{
+  "name": "com.grumpy_cat_games.simplexity.streaming",
+  "version": "0.0.1",
+  "displayName": "Simplexity Streaming",
+  "description": "Streaming Module for Simplexity",
+  "unity": "6000.3",
+  "documentationUrl": "https://grumpycatgames.com/simplexity/documentation",
+  "changelogUrl": "https://grumpycatgames.com/simplexity/changelog",
+  "licensesUrl": "https://grumpycatgames.com/simplexity/license",
+  "keywords": [
+    "module"
+  ],
+  "author": {
+    "name": "Grumpy Cat Games",
+    "email": "simplexity@grumpycatgames.com",
+    "url": "https://grumpycatgames.com/"
+  }
+}
